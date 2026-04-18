@@ -24,3 +24,6 @@ Garnitures:
 Fromage
 Pepperoni
 Ananas
+
+Sauce tomate
+
