@@ -1,1 +1,6 @@
 Pizza
+
+Garnitures:
+Fromage
+Pepperoni
+Ananas
